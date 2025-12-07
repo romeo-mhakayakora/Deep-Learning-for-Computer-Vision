@@ -275,7 +275,7 @@ This is a personal learning repository, but you're welcome to:
 
 ## 📧 Contact & Social
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/romeo-mhakayakora-604ab52a3/)
+- **LinkedIn**: [[romeo-mhakayakora-604ab52a3](https://www.linkedin.com/in/romeo-mhakayakora-604ab52a3/)](https://www.linkedin.com/in/romeo-mhakayakora-604ab52a3/)
 - **GitHub**: [romeo-mhakayakora](https://github.com/romeo-mhakayakora)
 - **Twitter/X**: [@YourHandle](https://twitter.com/yourhandle)
 - **Email**: romeomhakayakora@gmail.com

@@ -1,5 +1,6 @@
 # Deep Learning for Computer Vision
 
+
 **Learning journey through Mohamed Elgendy's comprehensive guide to deep learning and computer vision**
 
 ## 📚 About This Repository
@@ -274,10 +275,10 @@ This is a personal learning repository, but you're welcome to:
 
 ## 📧 Contact & Social
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/romeo-mhakayakora-604ab52a3/)
 - **GitHub**: [romeo-mhakayakora](https://github.com/romeo-mhakayakora)
 - **Twitter/X**: [@YourHandle](https://twitter.com/yourhandle)
-- **Email**: your.email@example.com
+- **Email**: romeomhakayakora@gmail.com
 
 ## 📝 License
 
